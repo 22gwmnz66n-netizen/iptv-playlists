@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,Россия 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,Матч ТВ
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1,НТВ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1,Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1,Россия-Культура
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1,Россия-24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1,Россия-24 (720p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+#EXTINF:-1,Карусель
+https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1,ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1,ТВ Центр
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1,Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1,Спас
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1,СТС
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1,Домашний
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1,ТВ-3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1,Пятница!
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1,Муз-ТВ
+https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1,РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,RT Д Русский
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,CGTN Pусский
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1,Че
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1,Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1,Астрахан 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1,Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1,Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1,Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1,Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1,Луганск 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1,Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+#EXTINF:-1,Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1,Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1,Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1,Тольятти 24
+https://tvtogliatti24.ru/hls/live1080/index.m3u8
+#EXTINF:-1,Урал 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1,Якутия 24
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1,360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1,Министерство Идей
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
+#EXTINF:-1,Небеса ТВ7
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,Север
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1,Соловьёв Live
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
+#EXTINF:-1,Ю
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1,Матч! Планета
+http://212.0.211.102:9999/play/a00b/index.m3u8
