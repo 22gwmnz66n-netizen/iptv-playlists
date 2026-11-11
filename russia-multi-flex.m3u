@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1,Channel One - Kilde 1
+http://31.148.5.241/kanal_1/index.m3u8
+#EXTINF:-1,Channel One - Kilde 2
+http://45.153.24.78/1TV/index.m3u8
+#EXTINF:-1,Channel One - Kilde 3
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1,Channel One CIS - Kilde 1
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+#EXTINF:-1,Channel One Europa - Kilde 1
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1,Channel One HD - Kilde 1
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mir - Kilde 1
+http://31.148.5.241/kanal_18/index.m3u8
+#EXTINF:-1,Mir - Kilde 2
+http://45.153.24.78/MIR/index.m3u8
+#EXTINF:-1,Mir - Kilde 3
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+#EXTINF:-1,Mir - Kilde 4
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1,Mir - Kilde 5
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mir 24 - Kilde 1
+http://5.188.159.128:8070/mir_24/index.m3u8
+#EXTINF:-1,Mir 24 - Kilde 2
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mir HD [Not 24/7] - Kilde 1
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Mir Kazakhstan - Kilde 1
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1,Moskva 24 - Kilde 1
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:-1,Moskva 24 - Kilde 2
+https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
+#EXTINF:-1,Moskva 24 - Kilde 3
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+#EXTINF:-1,Moskva 24 - Kilde 4
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1,NTV - Kilde 1
+http://31.148.5.241/kanal_4/index.m3u8
+#EXTINF:-1,NTV - Kilde 2
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1,NTV - Kilde 3
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NTV HD - Kilde 1
+http://flussonic.linkintel.ru/ntv/index.m3u8
+#EXTINF:-1,NTV HD - Kilde 2
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1,NTV HD - Kilde 3
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1,NTV SD - Kilde 1
+http://45.153.24.78/NTV/index.m3u8
+#EXTINF:-1,NTV SD - Kilde 2
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1,OTR - Kilde 1
+http://31.148.5.241/kanal_9/index.m3u8
+#EXTINF:-1,OTR - Kilde 2
+http://flussonic.linkintel.ru/otr/index.m3u8
+#EXTINF:-1,RT - Kilde 1
+http://212.5.144.156:8080/rt/index.m3u8
+#EXTINF:-1,RT HD - Kilde 1
+http://31.148.48.15/RT_HD/index.m3u8
+#EXTINF:-1,RT HD - Kilde 2
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1,Russia-1 - Kilde 1
+http://31.148.5.241/kanal_2/index.m3u8
+#EXTINF:-1,Russia-1 - Kilde 2
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Russia-1 HD - Kilde 1
+http://176.118.197.101/RossiyaHD/index.m3u8
+#EXTINF:-1,Russia-1 HD - Kilde 2
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,Russia-1 HD - Kilde 3
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1,Russia-1 SD - Kilde 1
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1,Russia-24 - Kilde 1
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1,Russia-24 - Kilde 2
+http://31.148.5.241/kanal_7/index.m3u8
+#EXTINF:-1,Russia-24 - Kilde 3
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1,Russia-24 - Kilde 4
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+#EXTINF:-1,Russia-24 - Kilde 5
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Russia-24 HD - Kilde 1
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1,Russia-24 HD - Kilde 2
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1,Russia-24 HD - Kilde 3
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1,Russia-24 HD - Kilde 4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1,Russia-K - Kilde 1
+http://31.148.5.241/kanal_6/index.m3u8
+#EXTINF:-1,Russia-K - Kilde 2
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1,Russia-K - Kilde 3
+https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Russia-K HD - Kilde 1
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1,Russia-K HD - Kilde 2
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1,Solovyov Live - Kilde 1
+https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1,Spas - Kilde 1
+http://31.148.5.241/kanal_12/index.m3u8
+#EXTINF:-1,Spas - Kilde 2
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1,TV Centr - Kilde 1
+http://31.148.5.241/kanal_10/index.m3u8
+#EXTINF:-1,TV Centr - Kilde 2
+http://flussonic.linkintel.ru/tvc/index.m3u8
+#EXTINF:-1,TV Centr - Kilde 3
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1,TV Centr - Kilde 4
+https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Centr SD - Kilde 1
+http://185.71.81.6:8080/10/index.m3u8
+#EXTINF:-1,Zvezda - Kilde 1
+http://51.158.144.33:2021/zvezda/index.m3u8
+#EXTINF:-1,Zvezda - Kilde 2
+http://31.148.5.241/kanal_17/index.m3u8
+#EXTINF:-1,Zvezda - Kilde 3
+http://flussonic.linkintel.ru/zvezda/index.m3u8
+#EXTINF:-1,Zvezda - Kilde 4
+https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+#EXTINF:-1,Zvezda - Kilde 5
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zvezda HD [Not 24/7] - Kilde 1
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,Волгоград 24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1,Мир 24 - Kilde 1
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир +2 [Not 24/7] - Kilde 1
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1,Мир +4 [Not 24/7] - Kilde 1
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,Мир +7 - Kilde 1
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1,Россия 24 [Not 24/7] - Kilde 1
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1,ТВ Центр - Kilde 1
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1,ТВ Центр - Kilde 2
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1,Матч ТВ - Kilde 1
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1,НТВ - Kilde 1
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1,Пятый канал - Kilde 1
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1,Россия-24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1,Россия-24 - Kilde 2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+#EXTINF:-1,Карусель - Kilde 1
+https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1,ОТР - Kilde 1
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1,Рен ТВ - Kilde 1
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1,Спас - Kilde 1
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1,СТС - Kilde 1
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1,Домашний - Kilde 1
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1,ТВ-3 - Kilde 1
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1,Пятница! - Kilde 1
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1,ТНТ - Kilde 1
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1,Муз-ТВ - Kilde 1
+https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1,РБК - Kilde 1
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,RT Д Русский - Kilde 1
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,CGTN Pусский - Kilde 1
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1,Че - Kilde 1
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1,Архыз 24 - Kilde 1
+https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1,Астрахан 24 - Kilde 1
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1,Башкортостан 24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1,Белгород 24 - Kilde 1
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Ветта 24 - Kilde 1
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1,Запад 24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1,Крым 24 - Kilde 1
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1,Луганск 24 - Kilde 1
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1,Мир Белогорья - Kilde 1
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Москва 24 - Kilde 1
+https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+#EXTINF:-1,Нижний Новгород 24 - Kilde 1
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1,Самара 24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1,Сибирь 24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1,Тольятти 24 - Kilde 1
+https://tvtogliatti24.ru/hls/live1080/index.m3u8
+#EXTINF:-1,Урал 24 - Kilde 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1,Якутия 24 - Kilde 1
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1,360 Новости - Kilde 1
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1,Министерство Идей - Kilde 1
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
+#EXTINF:-1,Небеса ТВ7 - Kilde 1
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,Север - Kilde 1
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1,Соловьёв Live - Kilde 1
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
+#EXTINF:-1,Ю - Kilde 1
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1,Матч! Планета - Kilde 1
+http://212.0.211.102:9999/play/a00b/index.m3u8
